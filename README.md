@@ -18,7 +18,8 @@
 系统推荐采用前后端分离架构，前端使用**ASP.NET**开发，后端使用**SQL Server**数据库。
 
 ### 2. 前端开发：ASP.NET的优点
-<details>
+<details><summary>可展开</summary>
+  
 **ASP.NET**是微软公司推出的Web开发框架，具有以下优点：
 
 | 特性              | 详细说明                                                                                       |
@@ -31,11 +32,13 @@
 | **强大的支持社区**| 拥有广泛的开发者社区和微软官方的支持，解决方案和教程丰富，能加快开发进程，减少技术难题。            |
 
 使用ASP.NET开发前端能够充分利用其安全性、性能和易于与其他微软技术栈集成的优势，适合企业级管理系统的开发。
+
 </details>
 
 ### 3. SQL Server 优势
 
-<details>
+<details><summary>可展开</summary>
+  
 在本项目中，选择**SQL Server**作为主要数据库系统，主要基于以下几个优点：
 
 | 特性              | SQL Server                                |
@@ -49,6 +52,7 @@
 | **易用性**        | 提供丰富的图形化管理工具，如SQL Server Management Studio (SSMS)，易于维护和监控 |
 
 SQL Server对于处理需要高事务性、严格数据一致性的应用场景非常适合。由于公司现有的技术栈可能包括Windows Server和其它微软技术，SQL Server也能带来更好的集成性和系统协同。
+
 </details>
 
 ## 三、系统安全性
